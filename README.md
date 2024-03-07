@@ -4,4 +4,4 @@ styles to leverage the Erlang Virtual Machine (Beam).
 
 ## Further Reading
 * [Postion Paper](abba_position_paper.md)
-* [White Paper](abba_whitepaper.md)
+* [Whitepaper](abba_whitepaper.md)
